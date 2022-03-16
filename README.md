@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafidzrdwn&label=Profile%20views&color=0e75b6&style=flat" alt="hafidzrdwn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafidzrdwn" alt="hafidzrdwn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafidzrdwn&theme=dracula&margin-w=10&margin-h=15&no-frame=true" alt="hafidzrdwn" /></a> </p>
 
 - 👨‍💻 I’m currently learning **ES6,VueJS,Sass,CodeIgniter,MongoDB,Laravel**
 
