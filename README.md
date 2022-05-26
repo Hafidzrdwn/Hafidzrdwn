@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafidzrdwn&" alt="hafidzrdwn" /></p>
 
-## Snake eating my contribution graph 
+## Snake eating my contribution graph :snake:
 ![snake gif](https://github.com/hafidzrdwn/hafidzrdwn/blob/output/github-contribution-grid-snake.gif)
 
