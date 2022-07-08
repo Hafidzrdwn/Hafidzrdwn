@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafidzrdwn&theme=dracula&margin-w=10&margin-h=15&no-frame=true" alt="hafidzrdwn" /></a> </p>
 
-- 👨‍💻 I’m currently learning **Laravel,ES6,VueJS,MongoDB**
+- 👨‍💻 I’m currently learning **Laravel,VueJS,Node JS,Express JS,MongoDB,Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
