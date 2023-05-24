@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Part Time Web Developer.</h3>
 
 # 💫 About Me:
-👯 I’m open to collaborate on Web App Project<br>💬 Ask me about Web Development<br>🌱 I’m currently learning Vue JS
+👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning Vue JS
 
 
 ## 🌐 Socials:
