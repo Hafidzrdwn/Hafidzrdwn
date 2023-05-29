@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafidz Ridwan</h1>
-<h3 align="center">Software Engineering Student | Part Time Web Developer.</h3>
 
 # 💫 About Me:
+🎨 Frontend Web Developer<br>💻 Backend Web Developer<br><br>
 👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning Vue JS
 
 
