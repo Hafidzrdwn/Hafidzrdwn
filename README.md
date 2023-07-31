@@ -14,8 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hafidzrdwn&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Snake eating my contribution graph :snake:
-![snake gif](https://github.com/hafidzrdwn/hafidzrdwn/blob/output/github-contribution-grid-snake.gif)
-
