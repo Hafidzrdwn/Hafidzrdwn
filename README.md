@@ -14,3 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hafidzrdwn&icon=5&color=6)](https://visitcount.itsvg.in)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hafidzrdwn/langs)](https://githubtrends.io)
