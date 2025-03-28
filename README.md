@@ -1,63 +1,59 @@
 <h1 align="center">Hi 👋, I'm Hafidz Ridwan</h1>
 
 # 💫 About Me:
-🏫 Undergraduate Student of Information System<br>
+🏫 Undergraduate Student of Information System (4th Semester)<br>
 🎨 Frontend Web Developer (JavaScript)<br>💻 Backend Web Developer (PHP)<br><br>
-👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning NuxtJS
+👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js & Android Ecosystems
 
 
 ## 🌐 Socials:
 <div align="left">
   <a href="mailto:hafidz10032005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail">
   </a>
   <a href="https://linkedin.com/in/hafidzrdwn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="https://instagram.com/hafidzrdwn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram">
   </a>
   <a href="https://twitter.com/hafidzrdwn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter">
   </a>
 </div>
 
-## 💻 Language & Tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+## 💻 Technology & Tools:
+<div margin-bottom:"5px">
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=php,js,ts,java,py">
 </div>
 
----
+<div margin-bottom:"5px">
+    <h3>Front-end:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,vue,nuxtjs,npm,yarn,vite">
+</div>
+
+<div gap-bottom: "5px">
+    <h3>Back-end:</h3>
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express">
+</div>
+
+<div gap-bottom: "5px">
+    <h3>Databases:</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,mongodb">
+</div>
+
+<div gap-bottom: "5px">
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,androidstudio,notion,phpstorm">
+</div> 
+
+<div gap-bottom: "5px">
+    <h3>Others:</h3>
+    <img src="https://skillicons.dev/icons?i=netlify,vercel">
+</div> 
+
+<hr />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hafidzrdwn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
