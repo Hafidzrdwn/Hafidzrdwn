@@ -25,12 +25,12 @@
 ## 💻 Technology & Tools:
 <div margin-bottom:"5px">
     <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,java,py">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,dart,swift">
 </div>
 
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,vue,nuxtjs,npm,yarn,vite">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,d3,astro,alpine,vue,react,redux,nuxtjs,nextjs,sass,jquery,npm,yarn,vite">
 </div>
 
 <div gap-bottom: "5px">
@@ -40,17 +40,17 @@
 
 <div gap-bottom: "5px">
     <h3>Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,mongodb">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,prisma,firebase,supabase">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,androidstudio,notion,phpstorm">
+    <img src="https://skillicons.dev/icons?i=docker,vscode,figma,git,github,postman,androidstudio,notion">
 </div> 
 
 <div gap-bottom: "5px">
     <h3>Others:</h3>
-    <img src="https://skillicons.dev/icons?i=netlify,vercel">
+    <img src="https://skillicons.dev/icons?i=ubuntu,netlify,vercel">
 </div> 
 
 <hr />
