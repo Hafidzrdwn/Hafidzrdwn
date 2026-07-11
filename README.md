@@ -3,7 +3,7 @@
 # 💫 About Me:
 🏫 Undergraduate Student of Information System (6th Semester)<br>
 🎨 Frontend Web Developer (JavaScript)<br>💻 Backend Web Developer (PHP)<br><br>
-👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js
+👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js Ecosystems
 
 
 ## 🌐 Socials:
