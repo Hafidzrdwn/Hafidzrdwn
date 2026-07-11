@@ -30,7 +30,7 @@
 
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,d3,astro,alpine,vue,react,redux,nuxtjs,nextjs,sass,jquery,npm,yarn,vite">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,d3,astro,vue,react,redux,nuxtjs,nextjs,sass,jquery,npm,yarn,vite">
 </div>
 
 <div gap-bottom: "5px">
